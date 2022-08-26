@@ -1,2 +1,2 @@
-# af2_cscjavad
-Client-Side Communication Java Dictionary
+# af2_cscjava
+Client-Side Communication Java
